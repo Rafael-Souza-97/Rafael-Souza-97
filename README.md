@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 
 🌱 Estou estudando Desenvolimento Web FullStack na Trybe
 
