@@ -32,7 +32,8 @@
 
 ###
 <div align="center">
-  <a href="https://www.linkedin.com/in/rafael-souza-280629236/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="30" alt="linkedin logo"  /></a> 
+  <a href="https://www.linkedin.com/in/rafael-souza-280629236/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="30" alt="linkedin logo"  /></a>
+  <a href="mailto:apsouza.rafael97@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 ###
@@ -46,8 +47,9 @@
 ###
 <img align="right" height="200" src="https://c.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.gif"  />
 
-<div align="center">
+<!-- <div align="center">
   
   ![Snake animation](https://github.com/Rafael-Souza-97/Rafael-Souza-97/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+ -->
