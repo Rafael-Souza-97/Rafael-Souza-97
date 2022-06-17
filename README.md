@@ -8,6 +8,7 @@
 ###
 <h6 align="center">🌱 I'm studying FullStack Web Development at Trybe!!</h6>
 <br>
+<br>
 
   <div align=center>
     <img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=Rafael-Souza-97&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
