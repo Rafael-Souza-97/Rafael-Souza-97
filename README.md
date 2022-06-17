@@ -10,6 +10,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=pt-br&hide_border=false&username=Rafael-Souza-97" height="150" alt="stats graph"  />
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=onedark&hide_border=false&username=Rafael-Souza-97" height="150" alt="languages graph"  /> -->
+  <img align="center" height="150" src="https://c.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.gif"  />
 </div>
 <br>
 
@@ -50,11 +51,12 @@
 
 
 ###
-<img align="right" height="200" src="https://c.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.gif"  />
 
-<!-- <div align="center">
+
+<div align="center">
   
-  ![Snake animation](https://github.com/Rafael-Souza-97/Rafael-Souza-97/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/Rafael-Souza-97/Rafael-Souza-97/blob/output/github-contribution-grid-snake.gif)
   
 </div>
- -->
+
+<!-- ![Snake animation](https://github.com/Rafael-Souza-97/Rafael-Souza-97/blob/output/github-contribution-grid-snake.svg) -->
