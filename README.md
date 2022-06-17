@@ -1,16 +1,26 @@
-<h1 align="center">Hello World!! 👋</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!+👋;+Myself+Rafael+Souza!;&center=true&size=30">
+  </a>
+  <img align="right" height="140" src="https://c.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.gif" />
+</h1>
 
 ###
-<h4 align="center">🌱 Estou estudando Desenvolimento Web FullStack na Trybe!</h4>
+<h6 align="center">🌱 I'm studying FullStack Web Development at Trybe!!</h6>
+<br>
+<br>
 
 ###
-<p align="left"></p>
-
-###
+<p align=center>
+  <div align=center>
+    <img align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=KushalTanna24&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+    <img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=Rafael-Souza-97&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=pt-br&hide_border=false&username=Rafael-Souza-97" height="150" alt="stats graph"  />
+  
+<!--   <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=pt-br&hide_border=false&username=Rafael-Souza-97" height="150" alt="stats graph"  /> -->
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=onedark&hide_border=false&username=Rafael-Souza-97" height="150" alt="languages graph"  /> -->
-  <img align="center" height="150" src="https://c.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.gif"  />
+  
 </div>
 <br>
 
@@ -18,6 +28,7 @@
 <p align="left"></p>
 
 ###
+<h6 align="center">Learning</h6>
 <div align="center">
   <img align="center" alt="Rafael-Js" height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="Rafael-HTML" height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -55,7 +66,7 @@
 
 <div align="center">
   
-  ![snake gif](https://github.com/Rafael-Souza-97/Rafael-Souza-97/blob/output/github-contribution-grid-snake.gif)
+  <img alt="snake eating my contribution" src="https://github.com/Rafael-Souza-97/Rafael-Souza-97/blob/output/github-contribution-grid-snake.svg">
   
 </div>
 
