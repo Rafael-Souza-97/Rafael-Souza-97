@@ -11,8 +11,8 @@
 <br>
 
   <div align=center>
-    <img align="center" width=480 src="https://github-readme-stats.vercel.app/api?hide_title=true&username=Rafael-Souza-97&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    <img align="center" width=450 src="https://activity-graph.herokuapp.com/graph?username=Rafael-Souza-97&theme=react-dark&bg_color=20232a&hide_border=true" />
+    <img align="center" width=430 src="https://github-readme-stats.vercel.app/api?hide_title=true&&include_all_commits=true&count_private=true&disable_animations=false&username=Rafael-Souza-97&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    <img align="center" width=410 src="https://activity-graph.herokuapp.com/graph?username=Rafael-Souza-97&theme=react-dark&bg_color=20232a&hide_border=true&include_all_commits=true&count_private=true&disable_animations=false&" />
   </div>
   
 <div align="center">
