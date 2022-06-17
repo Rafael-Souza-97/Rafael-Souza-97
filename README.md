@@ -8,14 +8,12 @@
 ###
 <h6 align="center">🌱 I'm studying FullStack Web Development at Trybe!!</h6>
 <br>
-<br>
 
-###
-<p align=center>
   <div align=center>
-    <img align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=KushalTanna24&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
     <img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=Rafael-Souza-97&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    <img align="center" width=430 src="https://activity-graph.herokuapp.com/graph?username=Rafael-Souza-97&theme=react-dark&bg_color=20232a&hide_border=true" />
   </div>
+  
 <div align="center">
   
 <!--   <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=pt-br&hide_border=false&username=Rafael-Souza-97" height="150" alt="stats graph"  /> -->
