@@ -11,6 +11,7 @@
   <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=pt-br&hide_border=false&username=Rafael-Souza-97" height="150" alt="stats graph"  />
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=onedark&hide_border=false&username=Rafael-Souza-97" height="150" alt="languages graph"  /> -->
 </div>
+<br>
 
 ###
 <p align="left"></p>
@@ -25,10 +26,17 @@
   <img align="center" alt="Rafael-GIT" height="30" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   <img align="center" alt="Rafael-GITHUB" height="30" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />   <img align="center" alt="Rafael-LINUX" height="30" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </div>
+<br>
+<br>
 
 ###
 <p align="left"></p>
 
+###
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Rafael-Souza-97.Rafael-Souza-97&"  />
+</div>
+<br>
 
 ###
 <div align="center">
@@ -39,10 +47,7 @@
 ###
 <p align="left"></p>
 
-###
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Rafael-Souza-97.Rafael-Souza-97&"  />
-</div>
+
 
 ###
 <img align="right" height="200" src="https://c.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.gif"  />
