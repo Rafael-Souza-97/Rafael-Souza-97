@@ -5,7 +5,7 @@
 <!--   <img align="right" width=130 src="https://c.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.gif" /> -->
 </h1>
 
-<h6 align="center">🌱 I'm studying FullStack Web Development at Trybe!!</h6>
+<h6 align="center">🌱 I'm studying FullStack Web Development at <a href="https://www.betrybe.com/"><i>Trybe</i></a>!!</h6>
 <br>
 
 <div align="center">
@@ -46,7 +46,11 @@
 <div align="center">
   <img alt="snake eating my contribution" src="https://github.com/Rafael-Souza-97/Rafael-Souza-97/blob/output/github-contribution-grid-snake.svg">
 </div>
+<br>
 
-<!-- References:
-https://github.com/rafaballerini
-https://github.com/KushalTanna24 -->
+<div align="center">
+  <h6>References:</h6>
+    <h6><a href="https://github.com/rafaballerini">Rafaella Ballerini</a> - 
+    <a href="https://github.com/duribeiro">Eduardo Ribeiro</a> - 
+    <a href="https://github.com/KushalTanna24">KushalTanna24</a></h6>
+</div>
