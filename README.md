@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!+👋;+Myself+Rafael+Souza!;&center=true&size=30">
   </a>
-  <img align="right" height="140" src="https://c.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.gif" />
+  <img align="right" width=130 src="https://c.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.gif" />
 </h1>
 
 ###
