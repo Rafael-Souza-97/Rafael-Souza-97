@@ -46,3 +46,7 @@
 <div align="center">
   <img alt="snake eating my contribution" src="https://github.com/Rafael-Souza-97/Rafael-Souza-97/blob/output/github-contribution-grid-snake.svg">
 </div>
+
+<!-- References:
+https://github.com/rafaballerini
+https://github.com/KushalTanna24 -->
