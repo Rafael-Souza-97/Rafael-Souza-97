@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!+👋;+Myself+Rafael+Souza!;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!+👋;+I'am+Rafael+Souza!+🇧🇷;&center=true&size=30">
   </a>
 <!--   <img align="right" width=130 src="https://c.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.gif" /> -->
 </h1>
@@ -44,8 +44,8 @@
   <img width=90 src="https://visitor-badge.laobi.icu/badge?page_id=Rafael-Souza-97.Rafael-Souza-97&"  />
 </div>
 <br>
-<br>
 
+<h6 align="center">Contact</h6>
 <div align="center">
     <a href="mailto:apsouza.rafael97@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafael-souza97/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo" ></a>
