@@ -12,11 +12,6 @@
   <img width=430 src="https://github-readme-stats.vercel.app/api?hide_title=true&&include_all_commits=true&count_private=true&disable_animations=false&username=Rafael-Souza-97&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   <img width=140 src="https://c.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.gif" />
 </div>
-<br>
-<div align="center">
-  <img align="center" width="80%" height=200 src="https://activity-graph.herokuapp.com/graph?username=Rafael-Souza-97&theme=react-dark&bg_color=20232a&hide_border=true&include_all_commits=true&count_private=true&disable_animations=false" />
-</div>
-<br>
 
 <div align="center">
   <img  <img width=285 src="https://github-readme-streak-stats.herokuapp.com/?user=Rafael-Souza-97&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
