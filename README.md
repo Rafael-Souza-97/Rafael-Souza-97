@@ -68,10 +68,9 @@
 
 <h6 align="center">Contact</h6>
 <div align="center">
-    <a href="mailto:apsouza.rafael97@gmail.com"><img src="[https://img.shields.io/badge](https://img.shields.io/badge)/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:apsouza.rafael97@gmail.com"><img src="[https://img.shields.io/badge](https://img.shields.io/badge)/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:apsouza.rafael97@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafael-souza97/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo" ></a>
-  <a href="https://github.com/Rafael-Souza-97"><img alt="Rafael-GITHUB" height="30" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-  <img alt="Rafael-Slack" id="U03CQT2L7LG" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" target="_blank">
 </div>
 
 <div align="center">
