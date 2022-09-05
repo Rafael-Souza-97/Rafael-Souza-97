@@ -80,9 +80,9 @@
 <hr>
 
 <h6 align="center">Repositories</h6>
-  <a align="left" href="https://github.com/Rafael-Souza-97/exchange-wallet" title="Exchange Wallet"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Rafael-Souza-97&repo=exchange-wallet&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/Rafael-Souza-97/exchange-wallet" title="Exchange Wallet"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Rafael-Souza-97&repo=exchange-wallet&theme=react&border_color=61dafb&border_radius=10"></a>
 <div width="10%" align="center">
-  <a align="right" href="https://github.com/Rafael-Souza-97/shopping-cart" title="Shopping Cart"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Rafael-Souza-97&repo=shopping-cart&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Rafael-Souza-97/shopping-cart" title="Shopping Cart"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Rafael-Souza-97&repo=shopping-cart&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 
 <!-- <div align="center">
