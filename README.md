@@ -6,7 +6,6 @@
 </h1>
 
 <h6 align="center">🌱 I'm studying FullStack Web Development at <a href="https://www.betrybe.com/"><i>Trybe</i></a>!!</h6>
-<br>
 
 ##
 
