@@ -14,6 +14,11 @@
 </div>
 
 <div align="center">
+  <img align="center" width="80%" height=200 src="https://activity-graph.herokuapp.com/graph?username=Rafael-Souza-97&theme=react-dark&bg_color=20232a&hide_border=true&include_all_commits=true&count_private=true&disable_animations=false" />
+</div>
+
+<br>
+<div align="center">
   <img  <img width=285 src="https://github-readme-streak-stats.herokuapp.com/?user=Rafael-Souza-97&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
   <img <img width=283 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Souza-97&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
 </div>
@@ -58,4 +63,11 @@
     <h6><a href="https://github.com/rafaballerini">Rafaella Ballerini</a> - 
     <a href="https://github.com/duribeiro">Eduardo Ribeiro</a> - 
     <a href="https://github.com/KushalTanna24">KushalTanna24</a></h6>
+</div>
+
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/Rafael-Souza-97/shopping-cart" title="Shopping Cart"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Rafael-Souza-97&repo=shopping-cart&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="rigth" href="https://github.com/Rafael-Souza-97/exchange-wallet" title="Exchange Wallet"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Rafael-Souza-97&repo=exchange-wallet&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
