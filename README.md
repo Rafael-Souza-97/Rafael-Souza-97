@@ -27,7 +27,6 @@
   </div>
 
 <br>
-<br>
 
 <h6 align="center">Learning</h6>
 
@@ -75,9 +74,11 @@
 
 <h6 align="center">Contact</h6>
 <div align="center">
-  <a href = "mailto:apsouza.rafael97@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafael-souza97/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo" ></a>
+  <a href = "mailto:apsouza.rafael97@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="gmail logo" width=100 height=30 ></a>
+  <a href="https://www.linkedin.com/in/rafael-souza97/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo" width=100 height=30 ></a>
 </div>
+
+##
 
 <div align="center">
   <img alt="snake eating my contribution" src="https://github.com/Rafael-Souza-97/Rafael-Souza-97/blob/output/github-contribution-grid-snake.svg">
