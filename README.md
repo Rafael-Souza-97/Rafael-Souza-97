@@ -9,14 +9,10 @@
 ##
 
 <div align="center">
-  <img width=428 src="https://github-readme-stats.vercel.app/api?hide_title=true&&include_all_commits=true&count_private=true&disable_animations=false&username=Rafael-Souza-97&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  <img width=425 src="https://github-readme-stats.vercel.app/api?hide_title=true&&include_all_commits=true&count_private=true&disable_animations=false&username=Rafael-Souza-97&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   <img width=140 src="https://c.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.gif" />
 </div>
-
-<!-- <div align="center">
-  <img align="center" width="80%" height=200 src="https://activity-graph.herokuapp.com/graph?username=Rafael-Souza-97&theme=react-dark&bg_color=20232a&hide_border=true&include_all_commits=true&count_private=true&disable_animations=false" />
-</div> -->
-
+ 
 <div align=center>
   <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
   <img align="center" width=285 height=130 src="https://github-readme-streak-stats.herokuapp.com/?user=Rafael-Souza-97&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
