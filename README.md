@@ -2,10 +2,9 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!+👋;+I'am+Rafael+Souza!+🇧🇷;&center=true&size=15">
   </a>
-<!--   <img align="right" width=100 src="https://c.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.gif" /> -->
-</h1>
 
-<h6 align="center">🌱 I'm studying FullStack Web Development at <a href="https://www.betrybe.com/"><i>Trybe</i></a>!!</h6>
+<h6 align="center"> - 🌱 I'm studying FullStack Web Development at <a href="https://www.betrybe.com/"><i>Trybe</i></a>!!</h6>
+<h6 align="center"> - 👯 I’m looking to collaborate on Javascript, HTML, CSS and React projects.</h6>
 
 ##
 
@@ -24,11 +23,11 @@
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img width=285 align="center" height=130 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Souza-97&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-  </div>
+</div>
 
-<br>
+##
 
-<h6 align="center">Learning</h6>
+<h6 align="center">Languages and Tools</h6>
 
 <div align="center">
   <a href="https://github.com/Rafael-Souza-97" /><br>
@@ -46,27 +45,7 @@
   <img align="center" alt="Windows" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
   <img align="center" alt="Linux" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </div>
-  
-  ##
 
-<!-- <h6 align="center">Learning</h6>
-<div align="center">
-  <img align="center" alt="Typescript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="Python" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-  <img align="center" alt="Nodejs" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-</div>
-
-## 
--->
-
-<br>
-<br>
-<br>
-
-<div align="center">
-  <img width=90 src="https://visitor-badge.laobi.icu/badge?page_id=Rafael-Souza-97.Rafael-Souza-97&" />
-</div>
-<br>
 <br>
 
 ##
@@ -79,22 +58,10 @@
 
 ##
 
-<div align="center">
-  <img alt="snake eating my contribution" src="https://github.com/Rafael-Souza-97/Rafael-Souza-97/blob/output/github-contribution-grid-snake.svg">
-</div>
 <br>
 
-<hr>
-  
 <h6 align="center">Repositories</h6>
   <a align="left" href="https://github.com/Rafael-Souza-97/exchange-wallet" title="Exchange Wallet"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Rafael-Souza-97&repo=exchange-wallet&theme=react&border_color=61dafb&border_radius=10"></a>
 <div width="10%" align="center">
   <a align="right" href="https://github.com/Rafael-Souza-97/shopping-cart" title="Shopping Cart"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Rafael-Souza-97&repo=shopping-cart&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
-
-<!-- <div align="center">
-  <h6>References:</h6>
-    <h6><a href="https://github.com/rafaballerini">Rafaella Ballerini</a> - 
-    <a href="https://github.com/duribeiro">Eduardo Ribeiro</a> - 
-    <a href="https://github.com/KushalTanna24">KushalTanna24</a></h6>
-</div> -->
