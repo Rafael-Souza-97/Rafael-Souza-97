@@ -14,9 +14,9 @@
   <img width=140 src="https://c.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.gif" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img align="center" width="80%" height=200 src="https://activity-graph.herokuapp.com/graph?username=Rafael-Souza-97&theme=react-dark&bg_color=20232a&hide_border=true&include_all_commits=true&count_private=true&disable_animations=false" />
-</div>
+</div> -->
 
 <div align=center>
   <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
