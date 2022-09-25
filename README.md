@@ -9,7 +9,7 @@
 ##
 
 <div align="center">
-  <img width=430 src="https://github-readme-stats.vercel.app/api?hide_title=true&&include_all_commits=true&count_private=true&disable_animations=false&username=Rafael-Souza-97&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  <img width=428 src="https://github-readme-stats.vercel.app/api?hide_title=true&&include_all_commits=true&count_private=true&disable_animations=false&username=Rafael-Souza-97&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   <img width=140 src="https://c.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.gif" />
 </div>
 
