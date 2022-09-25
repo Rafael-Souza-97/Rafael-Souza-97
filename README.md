@@ -4,7 +4,7 @@
   </a>
 
 <h6 align="center"> - 🌱 I'm studying FullStack Web Development at <a href="https://www.betrybe.com/"><i>Trybe</i></a>!!</h6>
-<h6 align="center"> - 👯 I’m looking to collaborate on Javascript, HTML, CSS and React projects.</h6>
+<h6 align="center"> - 👯 I’m looking to collaborate on Front-End projects.</h6>
 
 ##
 
