@@ -25,9 +25,8 @@
 
 ##
 
-<h6 align="center">Languages and Tools</h6>
-
 <div align="center">
+  <h6 align="center">Languages and Tools</h6>
   <a href="https://github.com/Rafael-Souza-97" /><br>
   <img align="center" alt="Docker" height="40" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
   <img align="center" alt="MySQL" height="40" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
