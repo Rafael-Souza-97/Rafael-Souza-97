@@ -3,8 +3,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!+👋;+I'am+Rafael+Souza!+🇧🇷;&center=true&size=15">
   </a>
 
-<h6 align="center"> - 🌱 I'm studying FullStack Web Development at <a href="https://www.betrybe.com/"><i>Trybe</i></a>!!</h6>
-<h6 align="center"> - 👯 I’m looking to collaborate on Front-End projects.</h6>
+<h6 align="center"> - 🌱 I'm studying FullStack Web Development at <a href="https://www.betrybe.com/"><i>Trybe</i></a>!</h6>
+<h6 align="center"> - 🌍  I'm from Cons. Lafaiete, Minas Gerais - Brazil</h6>
+<h6 align="center"> - 👯 I’m looking to collaborate on Back-End projects</h6>
+<h6 align="center"> - 🧠 Currently learning Docker and SQL</h6>
 
 ##
 
@@ -27,6 +29,10 @@
 
 <div align="center">
   <a href="https://github.com/Rafael-Souza-97" /><br>
+  <img align="center" alt="Docker" height="40" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+  <img align="center" alt="MySQL" height="40" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <br>
+  <br>
   <img align="center" alt="Javascript" height="35" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="HTML5" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="CSS3" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -35,8 +41,11 @@
   <img align="center" alt="Jest" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
   <img align="center" alt="Bulma" height="35" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" />
   <img align="center" alt="Bootstrap" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
-   <img align="center" alt="Bootstrap" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+  <img align="center" alt="Tailwind" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+  <br>
+  <br>
   <img align="center" alt="Git" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="Figma" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />   
   <img align="center" alt="Slack" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />
   <img align="center" alt="VsCode" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Windows" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
