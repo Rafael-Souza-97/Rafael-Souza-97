@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!+👋;+I'am+Rafael+Souza!+🇧🇷;&center=true&size=15">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!+👋;+I+am+Rafael+Souza!+🇧🇷;&center=true&size=15">
   </a>
 
 <h6 align="center"> - 🌱 I'm studying FullStack Web Development at <a href="https://www.betrybe.com/"><i>Trybe</i></a>!</h6>
