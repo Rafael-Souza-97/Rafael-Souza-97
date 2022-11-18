@@ -68,17 +68,17 @@
   
 <h6 align="center">Repositories</h6>
 <div width="100%" align="center" margin=5px>
- <a  align="center" href="https://github.com/Rafael-Souza-97/exchange-wallet" title="Exchange Wallet"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Rafael-Souza-97&repo=exchange-wallet&theme=react&border_color=61dafb&border_radius=10"></a>
+ <a align="center" href="https://github.com/Rafael-Souza-97/store-manager" title="Store Manager"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Rafael-Souza-97&repo=store-manager&theme=react&border_color=61dafb&border_radius=10"></a>
  🔹
- <a align="center" href="https://github.com/Rafael-Souza-97/talker-manager" title="Talker Manager"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Rafael-Souza-97&repo=talker-manager&theme=react&border_color=61dafb&border_radius=10"></a>
+ <a  align="center" href="https://github.com/Rafael-Souza-97/exchange-wallet" title="Exchange Wallet"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Rafael-Souza-97&repo=exchange-wallet&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
  
 <br/>
  
 <div width="80%" align="center">
- <a align="center" href="https://github.com/Rafael-Souza-97/shopping-cart" title="Shopping Cart"><img margin=20 align="center" height="115" margin-left=20 src="https://github-readme-stats.vercel.app/api/pin/?username=Rafael-Souza-97&repo=shopping-cart&theme=react&border_color=61dafb&border_radius=10"></a>
+ <a align="center" href="https://github.com/Rafael-Souza-97/talker-manager" title="Talker Manager"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Rafael-Souza-97&repo=talker-manager&theme=react&border_color=61dafb&border_radius=10"></a>
   🔹
- <a align="center" href="https://github.com/Rafael-Souza-97/solar-system" title="Solar System"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Rafael-Souza-97&repo=solar-system&theme=react&border_color=61dafb&border_radius=10"></a>
+ <a align="center" href="https://github.com/Rafael-Souza-97/shopping-cart" title="Shopping Cart"><img margin=20 align="center" height="115" margin-left=20 src="https://github-readme-stats.vercel.app/api/pin/?username=Rafael-Souza-97&repo=shopping-cart&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 
 ##
