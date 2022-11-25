@@ -68,7 +68,7 @@
 
 <br>
   
-<h6 align="center">Repositories</h6>
+<!-- <h6 align="center">Repositories</h6>
 <div width="100%" align="center" margin=5px>
  <a align="center" href="https://github.com/Rafael-Souza-97/store-manager" title="Store Manager"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Rafael-Souza-97&repo=store-manager&theme=react&border_color=61dafb&border_radius=10"></a>
  🔹
@@ -82,5 +82,5 @@
   🔹
  <a align="center" href="https://github.com/Rafael-Souza-97/shopping-cart" title="Shopping Cart"><img margin=20 align="center" height="115" margin-left=20 src="https://github-readme-stats.vercel.app/api/pin/?username=Rafael-Souza-97&repo=shopping-cart&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
-
+ -->
 ##
