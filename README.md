@@ -6,7 +6,7 @@
 <h5 align="center"> - 🌱 I'm studying FullStack Web Development at <a href="https://www.betrybe.com/"><i>Trybe</i></a>!</h5>
 <h5 align="center"> - 🌍  I'm from Cons. Lafaiete, Minas Gerais - Brazil</h5>
 <h5 align="center"> - 👯 I’m looking to collaborate on Back-End projects</h5>
-<h5 align="center"> - 🧠 Currently learning Docker, SQL, Node.js and Typescript</h5>
+<h5 align="center"> - 🧠 Currently learning Node.js, Sequelize and Typescript</h5>
 
 ##
 
