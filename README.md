@@ -11,16 +11,17 @@
 ##
 
 <div align="center">
-  <img width=425 src="https://github-readme-stats.vercel.app/api?hide_title=true&&include_all_commits=true&disable_animations=false&username=Rafael-Souza-97&count_private=true&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  <img width=140 src="https://c.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.gif" />
+  <img width=450 src="https://github-readme-stats.vercel.app/api?hide_title=true&&include_all_commits=true&disable_animations=false&username=Rafael-Souza-97&count_private=true&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  <img width=148 src="https://c.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.gif" />
 </div>
  
 <div align=center>
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-  <img align="center" width=305 src="https://github-readme-streak-stats.herokuapp.com/?user=Rafael-Souza-97&count_private=true&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
-  </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width=260 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Souza-97&count_private=true&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <img width=272 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Souza-97&count_private=true&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+    <img align="center" width=330 src="https://github-readme-streak-stats.herokuapp.com/?user=Rafael-Souza-97&count_private=true&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+  </a>
+
 </div>
 
 ##
