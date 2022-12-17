@@ -16,7 +16,6 @@
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img width=292 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Souza-97&count_private=true&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-
 </div>
 
 ##
@@ -24,28 +23,26 @@
 <div align="center">
   <h6 align="center">Languages and Tools</h6>
   <a href="https://skillicons.dev" target="_blank"><br>          
-    <img align="center" alt="typescript" width="30" src="https://skillicons.dev/icons?i=ts" />
-    <img align="center" alt="javascript" width="30" src="https://skillicons.dev/icons?i=js" />
-    <img align="center" alt="HTML" width="30" src="https://skillicons.dev/icons?i=html" />
-    <img align="center" alt="CSS" width="30" src="https://skillicons.dev/icons?i=css" />
-    <img align="center" alt="react" width="30" src="https://skillicons.dev/icons?i=react" />
-    <img align="center" alt="redux" width="30" src="https://skillicons.dev/icons?i=redux" />
-    <img align="center" alt="jest" width="30" src="https://skillicons.dev/icons?i=jest" />
-    <img align="center" alt="Docker" width="30" src="https://skillicons.dev/icons?i=docker" />
-    <img align="center" alt="Node.js" width="30" src="https://skillicons.dev/icons?i=nodejs" />
-    <img align="center" alt="Express" width="30" src="https://skillicons.dev/icons?i=express" />
-    <img align="center" alt="MySQL" width="30" src="https://skillicons.dev/icons?i=mysql" />
-    <img align="center" alt="tailwind" width="30" src="https://skillicons.dev/icons?i=tailwind" />
-    <img align="center" alt="bootstrap" width="30" src="https://skillicons.dev/icons?i=bootstrap" />
-    <img align="center" alt="git" width="30" src="https://skillicons.dev/icons?i=git" />
-    <img align="center" alt="VsCode" width="30" src="https://skillicons.dev/icons?i=vscode" />
-    <img align="center" alt="vercel" width="30" src="https://skillicons.dev/icons?i=vercel" />
-    <img align="center" alt="figma" width="30" src="https://skillicons.dev/icons?i=figma" />
-    <img align="center" alt="linux" width="30" src="https://skillicons.dev/icons?i=linux" />
+    <img align="center" alt="typescript" width="31" src="https://skillicons.dev/icons?i=ts" />
+    <img align="center" alt="javascript" width="31" src="https://skillicons.dev/icons?i=js" />
+    <img align="center" alt="HTML" width="31" src="https://skillicons.dev/icons?i=html" />
+    <img align="center" alt="CSS" width="31" src="https://skillicons.dev/icons?i=css" />
+    <img align="center" alt="react" width="31" src="https://skillicons.dev/icons?i=react" />
+    <img align="center" alt="redux" width="31" src="https://skillicons.dev/icons?i=redux" />
+    <img align="center" alt="jest" width="31" src="https://skillicons.dev/icons?i=jest" />
+    <img align="center" alt="Docker" width="31" src="https://skillicons.dev/icons?i=docker" />
+    <img align="center" alt="Node.js" width="31" src="https://skillicons.dev/icons?i=nodejs" />
+    <img align="center" alt="Express" width="31" src="https://skillicons.dev/icons?i=express" />
+    <img align="center" alt="MySQL" width="31" src="https://skillicons.dev/icons?i=mysql" />
+    <img align="center" alt="tailwind" width="31" src="https://skillicons.dev/icons?i=tailwind" />
+    <img align="center" alt="bootstrap" width="31" src="https://skillicons.dev/icons?i=bootstrap" />
+    <img align="center" alt="git" width="31" src="https://skillicons.dev/icons?i=git" />
+    <img align="center" alt="VsCode" width="31" src="https://skillicons.dev/icons?i=vscode" />
+    <img align="center" alt="vercel" width="31" src="https://skillicons.dev/icons?i=vercel" />
+    <img align="center" alt="figma" width="31" src="https://skillicons.dev/icons?i=figma" />
+    <img align="center" alt="linux" width="31" src="https://skillicons.dev/icons?i=linux" />
   </a>
 </div>
-
-<br>
 
 ##
 
