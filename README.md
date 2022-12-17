@@ -9,13 +9,7 @@
 <h5 align="center"> - 🧠 Currently learning Node.js, Sequelize and Typescript</h5>
 
 ##
-<!--
-<div align="center">
-  <img width=450 src="https://github-readme-stats.vercel.app/api?hide_title=true&&include_all_commits=true&disable_animations=false&username=Rafael-Souza-97&count_private=true&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  <img width=148 src="https://c.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.gif" />
-</div>
--->
- 
+
 <div align=center>
   <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
     <img align="center" width=345 src="https://github-readme-streak-stats.herokuapp.com/?user=Rafael-Souza-97&count_private=true&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
@@ -55,29 +49,12 @@
 
 ##
 
-<h6 align="center">Contact</h6>
 <div align="center">
-  <a href = "mailto:apsouza.rafael97@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="gmail logo" width=100 ></a>
-  <a href="https://www.linkedin.com/in/rafael-souza97/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo" width=100 ></a>
+  <h6 align="center">Contact</h6>
+    <a href="https://www.linkedin.com/in/rafael-souza97/" target="_blank">
+      <img align="center" alt="Linkedin" height="32" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=282A36&logoColor=61dafb&labelColor=&style=for-the-badge" />
+  </a>
+    <a href="mailto:apsouza.rafael97@gmail.com" target="_blank">
+      <img align="center" alt="Gmail" height="32" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=282A36&logoColor=61dafb&labelColor=&style=for-the-badge" />
+    </a>
 </div>
-
-##
-
-<!-- <br> -->
-  
-<!-- <h6 align="center">Repositories</h6>
-<div width="100%" align="center" margin=5px>
- <a align="center" href="https://github.com/Rafael-Souza-97/store-manager" title="Store Manager"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Rafael-Souza-97&repo=store-manager&theme=react&border_color=61dafb&border_radius=10"></a>
- 🔹
- <a  align="center" href="https://github.com/Rafael-Souza-97/exchange-wallet" title="Exchange Wallet"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Rafael-Souza-97&repo=exchange-wallet&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
- 
-<br/>
- 
-<div width="80%" align="center">
- <a align="center" href="https://github.com/Rafael-Souza-97/talker-manager" title="Talker Manager"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Rafael-Souza-97&repo=talker-manager&theme=react&border_color=61dafb&border_radius=10"></a>
-  🔹
- <a align="center" href="https://github.com/Rafael-Souza-97/shopping-cart" title="Shopping Cart"><img margin=20 align="center" height="115" margin-left=20 src="https://github-readme-stats.vercel.app/api/pin/?username=Rafael-Souza-97&repo=shopping-cart&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
- -->
-<!-- ## -->
