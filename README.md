@@ -6,7 +6,7 @@
 <h5 align="center"> - 🌱 I'm studying FullStack Web Development at <a href="https://www.betrybe.com/"><i>Trybe</i></a>!</h5>
 <h5 align="center"> - 🌍  I'm from Cons. Lafaiete, Minas Gerais - Brazil</h5>
 <h5 align="center"> - 👯 I’m looking to collaborate on Web projects</h5>
-<h5 align="center"> - 🧠 Currently learning Typescript, MongoDB and Object-Oriented Programming</h5>
+<h5 align="center"> - 🧠 Currently learning MongoDB and Object-Oriented Programming</h5>
 
 ##
 
