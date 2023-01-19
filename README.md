@@ -48,10 +48,13 @@
 
 <div align="center">
   <h6 align="center">Contact</h6>
-    <a href="https://www.linkedin.com/in/rafael-souza97/" target="_blank">
-      <img align="center" alt="Linkedin" height="32" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=282A36&logoColor=61dafb&labelColor=&style=for-the-badge" />
+  <a href="https://www.linkedin.com/in/rafael-souza97/" target="_blank">
+    <img align="center" alt="Linkedin" height="32" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=282A36&logoColor=61dafb&labelColor=&style=for-the-badge" />
   </a>
-    <a href="mailto:apsouza.rafael97@gmail.com" target="_blank">
-      <img align="center" alt="Gmail" height="32" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=282A36&logoColor=61dafb&labelColor=&style=for-the-badge" />
-    </a>
+  <a href="mailto:apsouza.rafael97@gmail.com" target="_blank">
+    <img align="center" alt="Gmail" height="32" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=282A36&logoColor=61dafb&labelColor=&style=for-the-badge" />
+  </a>
+  <a href="https://portfolio-rafael-souza.vercel.app/" target="_blank">
+    <img align="center" alt="Portfolio" height="32" src="https://img.shields.io/static/v1?message=Portfolio&logo=Portfolio&label=&color=282A36&logoColor=61dafb&labelColor=&style=for-the-badge" />
+  </a>
 </div>
