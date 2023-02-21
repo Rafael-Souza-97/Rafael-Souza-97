@@ -34,10 +34,11 @@
     <img align="center" alt="Node.js" width="31" src="https://skillicons.dev/icons?i=nodejs" />
     <img align="center" alt="Express" width="31" src="https://skillicons.dev/icons?i=express" />
     <img align="center" alt="MySQL" width="31" src="https://skillicons.dev/icons?i=mysql" />
+    <img align="center" alt="MongoDb" width="31" src="https://skillicons.dev/icons?i=mongodb" />
+    <img align="center" alt="Sequelize" width="31" src="https://skillicons.dev/icons?i=sequelize" />
     <img align="center" alt="tailwind" width="31" src="https://skillicons.dev/icons?i=tailwind" />
     <img align="center" alt="bootstrap" width="31" src="https://skillicons.dev/icons?i=bootstrap" />
     <img align="center" alt="git" width="31" src="https://skillicons.dev/icons?i=git" />
-    <img align="center" alt="VsCode" width="31" src="https://skillicons.dev/icons?i=vscode" />
     <img align="center" alt="vercel" width="31" src="https://skillicons.dev/icons?i=vercel" />
     <img align="center" alt="figma" width="31" src="https://skillicons.dev/icons?i=figma" />
     <img align="center" alt="linux" width="31" src="https://skillicons.dev/icons?i=linux" />
