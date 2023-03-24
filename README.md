@@ -25,14 +25,14 @@
   <a href="https://skillicons.dev" target="_blank"><br>          
     <img align="center" alt="typescript" width="30" src="https://skillicons.dev/icons?i=ts" />
     <img align="center" alt="javascript" width="30" src="https://skillicons.dev/icons?i=js" />
+    <img align="center" alt="Python" width="30" src="https://skillicons.dev/icons?i=py" />
+    <img align="center" alt="Node.js" width="30" src="https://skillicons.dev/icons?i=nodejs" />
     <img align="center" alt="HTML" width="30" src="https://skillicons.dev/icons?i=html" />
     <img align="center" alt="CSS" width="30" src="https://skillicons.dev/icons?i=css" />
     <img align="center" alt="react" width="30" src="https://skillicons.dev/icons?i=react" />
     <img align="center" alt="redux" width="30" src="https://skillicons.dev/icons?i=redux" />
     <img align="center" alt="jest" width="30" src="https://skillicons.dev/icons?i=jest" />
     <img align="center" alt="Docker" width="30" src="https://skillicons.dev/icons?i=docker" />
-    <img align="center" alt="python" width="30" src="https://skillicons.dev/icons?i=python" />
-    <img align="center" alt="Node.js" width="30" src="https://skillicons.dev/icons?i=nodejs" />
     <img align="center" alt="Express" width="30" src="https://skillicons.dev/icons?i=express" />
     <img align="center" alt="MySQL" width="30" src="https://skillicons.dev/icons?i=mysql" />
     <img align="center" alt="MongoDb" width="30" src="https://skillicons.dev/icons?i=mongodb" />
