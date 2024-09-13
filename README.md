@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!+👋;+I+am+Rafael+Souza!+🇧🇷;&center=true&size=15">
   </a>
 
-<h5 align="center"> - 🌍 Brazil - MG </h5>
+<h5 align="center">  🌍 Brazil - MG </h5>
 
 ##
 
