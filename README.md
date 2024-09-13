@@ -3,8 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!+👋;+I+am+Rafael+Souza!+🇧🇷;&center=true&size=15">
   </a>
 
-<h5 align="center"> - 🌱 I`m graduated from the <a href="https://www.betrybe.com/"><i>Trybe</i></a> FullStack Web Development course!</h5>
-<h5 align="center"> - 🌍 I'm from Cons. Lafaiete, Minas Gerais - Brazil</h5>
+<h5 align="center"> - 🌍 Brazil - MG </h5>
 
 ##
 
